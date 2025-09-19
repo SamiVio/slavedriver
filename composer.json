@@ -12,7 +12,7 @@
         "psr/simple-cache": "^1.0",
         "psr/log": "^1.0",
         "dragonmantank/cron-expression": "^2.0.0",
-        "malkusch/lock": "*",
+        "malkusch/lock": "^3.0",
         "cocur/slugify": "*",
         "phossa2/event": "^2.1.0"
     },
